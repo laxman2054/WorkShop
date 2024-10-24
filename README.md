@@ -429,13 +429,13 @@ public class SecondActivity extends AppCompatActivity {
 ## OUTPUT:
 
 
-![1screen](https://github.com/user-attachments/assets/cad62105-44ca-4241-83df-2ad548bfc5fb)
+<img src="https://github.com/user-attachments/assets/cad62105-44ca-4241-83df-2ad548bfc5fb" width="400">
 
-![2screen](https://github.com/user-attachments/assets/e3c7b979-45d3-45ca-80a0-ee64af1d239d)
+<img src="https://github.com/user-attachments/assets/e3c7b979-45d3-45ca-80a0-ee64af1d239d" width="400">
 
-![3screen](https://github.com/user-attachments/assets/6074f69f-3667-49d0-94f3-7aeb2398536c)
+<img src="https://github.com/user-attachments/assets/6074f69f-3667-49d0-94f3-7aeb2398536c" width="400">
 
-![4 screen](https://github.com/user-attachments/assets/96094be3-e622-4ef1-a50b-b31467342b97)
+<img src="https://github.com/user-attachments/assets/96094be3-e622-4ef1-a50b-b31467342b97" width="400">
 
 ## RESULT:
 Thus, The Developing an Android Application To Pass The Data Between The Activities Using Intent and is excecuted successfully and the output is verified. 
