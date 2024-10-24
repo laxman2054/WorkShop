@@ -429,7 +429,7 @@ public class SecondActivity extends AppCompatActivity {
 ## OUTPUT:
 
 
-<img src="https://github.com/user-attachments/assets/cad62105-44ca-4241-83df-2ad548bfc5fb" width="400">
+<img src="https://github.com/user-attachments/assets/cad62105-44ca-4241-83df-2ad548bfc5fb" width="600">
 
 <img src="https://github.com/user-attachments/assets/e3c7b979-45d3-45ca-80a0-ee64af1d239d" width="400">
 
